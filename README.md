@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🎯FOCUS ON :<br># Innovation 💡 <br># Problem-Solving 🧩 <br># Learning 📚 <br># Development 💻**<br><br>⚡Skills :<br># Focuses on your tech expertise <br># Emphasizes building and making things <br># versatility across tech, writing, and communication</p>
+<p align="left">🎯FOCUS ON :<br># Innovation 💡 <br># Problem-Solving 🧩 <br># Learning 📚 <br># Development 💻<br><br>⚡Skills :<br># Focuses on your tech expertise <br># Emphasizes building and making things <br># versatility across tech, writing, and communication</p>
 
 ###
 
